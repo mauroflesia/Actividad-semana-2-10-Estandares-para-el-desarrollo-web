@@ -1,0 +1,27 @@
+{
+  "name": "actividad-semana-2-10-estandares-para-el-desarrollo-web",
+  "version": "1.0.0",
+  "description": "Proyecto realizado a partir de la adaptacion de una plantilla web para la actividad solicitada",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mauroflesia/Actividad-semana-2-10-Estandares-para-el-desarrollo-web.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/mauroflesia/Actividad-semana-2-10-Estandares-para-el-desarrollo-web/issues"
+  },
+  "homepage": "https://github.com/mauroflesia/Actividad-semana-2-10-Estandares-para-el-desarrollo-web#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^7.3.1",
+    "express": "^5.2.1",
+    "jquery": "^4.0.0",
+    "sweetalert2": "^11.26.25"
+  }
+}
